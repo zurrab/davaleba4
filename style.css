@@ -1,0 +1,29 @@
+.container{
+    width: 562px;
+    height: 100%;
+    border-radius: 20px;
+    background-color: #DCDCDC;
+    margin-top: 70px;
+    
+}
+.picture{
+  width: 237.95px;  
+  height: 184.57px;
+  padding-top: 40px;
+}
+.text{
+  text-align: left;
+  margin-left: 56px;
+  color: #000000;
+}
+.line{
+  width: 443px;
+}
+.text1{
+  text-align: left;
+}
+.text3{
+  color: #5076FF ;
+  text-align: right;
+
+}
